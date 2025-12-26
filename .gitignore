@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+
+# Output images (keep folder, ignore files)
+processed_images/*
+!processed_images/.gitkeep
